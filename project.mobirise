@@ -36,16 +36,24 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.0.4",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "5.0.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/fav.png",
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Damon Dynamics, Inc",
+        "meta_descr": "A Better Tomorrow",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
