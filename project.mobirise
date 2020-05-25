@@ -54,8 +54,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Damon Dynamics, Inc",
-        "meta_descr": "A Better Tomorrow",
+        "title": "DamonDynamics, Inc",
+        "meta_descr": "a Research Company",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
